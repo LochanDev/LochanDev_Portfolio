@@ -11,7 +11,7 @@ const Experience = () => {
         <div className="timeline-item reveal">
           <div className="timeline-dot"></div>
           <div className="timeline-content glass-panel">
-            <div className="timeline-date">Jan 2026 – Present</div>
+            <div className="timeline-date">Jan 2026 – July 2026</div>
             <h3>Game Developer Intern</h3>
             <h4>Akiyam Solutions Pvt. Ltd — Hyderabad, India</h4>
             <ul>
