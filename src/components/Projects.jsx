@@ -53,7 +53,7 @@ const Projects = () => {
                 <a href="https://github.com/SubLochan/Spare-Parts-Inventory-Frontend" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
-                <a href="#" className="project-btn primary-link">
+                <a href="https://spareparts-inventory.netlify.app" className="project-btn primary-link">
                   <i className="fa-solid fa-external-link-alt"></i> Live Demo
                 </a>
               </div>
