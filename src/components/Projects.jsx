@@ -12,6 +12,9 @@ const Projects = () => {
         <div className="projects-grid">
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
+              <div className="platform-card web">
+                <i className="fa-solid fa-globe"></i> Web
+              </div>
               <img src="/assets/Telecom.png" alt="Telecom Plan Comparator" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
@@ -37,6 +40,9 @@ const Projects = () => {
 
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
+              <div className="platform-card web">
+                <i className="fa-solid fa-globe"></i> Web
+              </div>
               <img src="/assets/Spare-Parts-Inventory.png" alt="TaskFlow Manager" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
@@ -68,6 +74,9 @@ const Projects = () => {
         <div className="projects-grid">
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
+              <div className="platform-card android">
+                <i className="fa-brands fa-android"></i> Android
+              </div>
               <img src="/assets/TangleTrail.jpg" alt="TangleTrail" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
@@ -92,6 +101,9 @@ const Projects = () => {
 
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
+              <div className="platform-card web">
+                <i className="fa-solid fa-globe"></i> Web
+              </div>
               <img src="/assets/operation_firestorm.png" alt="Operation Firestorm" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
@@ -113,6 +125,9 @@ const Projects = () => {
 
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
+              <div className="platform-card android">
+                <i className="fa-brands fa-android"></i> Android
+              </div>
               <img src="/assets/legacies_untold.png" alt="Legacies Untold" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
@@ -144,6 +159,9 @@ const Projects = () => {
 
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
+              <div className="platform-card web">
+                <i className="fa-solid fa-globe"></i> Web
+              </div>
               <img src="/assets/RabbitRush.png" alt="Rabbit Rush" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
