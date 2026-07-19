@@ -60,27 +60,6 @@ const Projects = () => {
             </div>
           </div>
 
-          {/* <div className="project-card glass-panel reveal">
-            <div className="project-img-wrapper">
-              <img src="/assets/cloudguard.png" alt="CloudGuard Sentinel" className="project-img"
-                onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=800&q=80'; }} />
-            </div>
-            <div className="project-content">
-              <h3>CloudGuard Sentinel (2025)</h3>
-              <p>Real-time infrastructure monitoring platform delivering log ingestion, active anomaly alerts, and automatic load balancing configurations.</p>
-              <div className="tags">
-                <span className="tag">Go</span>
-                <span className="tag">Docker</span>
-                <span className="tag">AWS</span>
-                <span className="tag">Prometheus</span>
-              </div>
-              <div className="project-links-row">
-                <a href="https://github.com/SubLochan/cloudguard-sentinel" target="_blank" rel="noreferrer" className="project-btn">
-                  <i className="fa-brands fa-github"></i> Repository
-                </a>
-              </div>
-            </div>
-          </div> */}
         </div>
       </div>
 

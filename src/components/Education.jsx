@@ -14,7 +14,7 @@ const Education = () => {
             <div className="timeline-date">Aug 2023 – Present</div>
             <h3>B.Tech Computer Science and Engineering</h3>
             <h4>Anurag University — Hyderabad, India</h4>
-            <p style={{ color: 'var(--accent-blue)', fontWeight: '600', marginTop: '10px' }}>CGPA: 8.55</p>
+            <p style={{ color: 'var(--accent-blue)', fontWeight: '600', marginTop: '10px' }}>CGPA: 8.50</p>
           </div>
         </div>
 
