@@ -18,7 +18,7 @@ const Projects = () => {
               <img src="/assets/Telecom.png" alt="Telecom Plan Comparator" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
-            
+
             <div className="project-content">
               <h3>Telecom Comparator (2026)</h3>
               <p>Full-stack web application orchestrating secure APIs via Spring Boot and PostgreSQL. Deployed seamlessly to Render with complete CI/CD setup.</p>
@@ -66,6 +66,42 @@ const Projects = () => {
             </div>
           </div>
 
+          <div className="project-card glass-panel reveal">
+            <div className="project-img-wrapper">
+              <div className="platform-card android">
+                <i className="fa-brands fa-android"></i> Android
+              </div>
+              <img src="/assets/ManaVahana_Icon.png" alt="ManaVahana" className="project-img"
+                onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=800&q=80'; }} />
+            </div>
+            <div className="project-content">
+              <h3>ManaVahana (2026)</h3>
+              <p>Offline-first Android application for vehicle, fuel/EV charging, service, expense, and document management. Implemented mileage tracking, automated document-expiry reminders, biometric/PIN-protected document access, and an encrypted Room-based local data layer.</p>
+              <div className="tags">
+                <span className="tag">Kotlin</span>
+                <span className="tag">Jetpack Compose</span>
+                <span className="tag">Room DB</span>
+                <span className="tag">Android</span>
+              </div>
+              <div className="project-links-row">
+                <a href="https://github.com/SubLochan/ManaVahna" target="_blank" rel="noreferrer" className="project-btn">
+                  <i className="fa-brands fa-github"></i> Repository
+                </a>
+                <a href="https://manavahana.netlify.app" target="_blank" rel="noreferrer" className="project-btn primary-link">
+                  <i className="fa-solid fa-external-link-alt"></i> Live Demo
+                </a>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.Lochan.ManaVahana"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="project-btn primary-link"
+                >
+                  <i className="fa-brands fa-google-play"></i> Play Store
+                </a>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
 
@@ -80,7 +116,7 @@ const Projects = () => {
               <img src="/assets/TangleTrail.jpg" alt="TangleTrail" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80'; }} />
             </div>
-          
+
             <div className="project-content">
               <h3>TangleTrail (2023 - 2024)</h3>
               <p>3D Adventure Android Mobile Game consisting of a maze and parkour.</p>
@@ -101,8 +137,8 @@ const Projects = () => {
 
           <div className="project-card glass-panel reveal">
             <div className="project-img-wrapper">
-              <div className="platform-card web">
-                <i className="fa-solid fa-globe"></i> Web
+              <div className="platform-card desktop">
+                <i className="fa-solid fa-desktop"></i> Desktop
               </div>
               <img src="/assets/operation_firestorm.png" alt="Operation Firestorm" className="project-img"
                 onError={(e) => { e.target.src = 'https://images.unsplash.com/photo-1542831371-29b0f74f9713?auto=format&fit=crop&w=800&q=80'; }} />
@@ -145,10 +181,10 @@ const Projects = () => {
                 <a href="https://youtu.be/D7MnZhcHZO4?si=3zq4B5mbcSv6bruJ" target="_blank" rel="noreferrer" className="project-btn primary-link">
                   <i className="fa-solid fa-external-link-alt"></i> Live Demo
                 </a>
-                <a 
-                  href="https://play.google.com/store/apps/details?id=com.Lochan.Legacies_Untold" 
-                  target="_blank" 
-                  rel="noreferrer" 
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.Lochan.Legacies_Untold"
+                  target="_blank"
+                  rel="noreferrer"
                   className="project-btn primary-link"
                 >
                   <i className="fa-brands fa-google-play"></i> Play Store
@@ -186,7 +222,7 @@ const Projects = () => {
           </div>
         </div>
 
-      
+
 
       </div>
     </section>

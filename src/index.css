@@ -214,6 +214,15 @@ section { padding: 120px 5% 60px; max-width: 1200px; margin: 0 auto; }
   font-size: 0.85rem;
   color: #60a5fa;
 }
+.platform-card.desktop {
+  background: rgba(168, 85, 247, 0.2);
+  color: #c084fc;
+  border: 1px solid rgba(192, 132, 252, 0.4);
+}
+.platform-card.desktop i {
+  font-size: 0.85rem;
+  color: #c084fc;
+}
 .project-card:hover .platform-card {
   transform: translateY(-2px) scale(1.03);
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.7);
@@ -225,7 +234,7 @@ section { padding: 120px 5% 60px; max-width: 1200px; margin: 0 auto; }
 .tag { padding: 4px 10px; background: rgba(255,255,255,0.03); border: 1px solid var(--border-color); border-radius: 4px; font-size: 0.75rem; font-family: var(--font-mono); color: var(--text-muted); }
 .tag.tag-android { background: rgba(16, 185, 129, 0.1); border-color: rgba(52, 211, 153, 0.3); color: #34d399; }
 .tag.tag-web { background: rgba(59, 130, 246, 0.1); border-color: rgba(96, 165, 250, 0.3); color: #60a5fa; }
-.project-links-row { display: flex; gap: 12px; }
+.project-links-row { display: flex; flex-wrap: wrap; gap: 10px; }
 .project-btn { 
   display: inline-flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--text-main); text-decoration: none; 
   font-weight: 500; transition: 0.2s; border: 1px solid var(--border-color); padding: 8px 16px; border-radius: 6px;
