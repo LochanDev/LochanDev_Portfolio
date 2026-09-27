@@ -5,7 +5,7 @@ const Skills = () => {
     <section id="skills">
       <div className="section-header reveal">
         <h2>Technical <span className="text-gradient">Expertise</span></h2>
-        <p>A comprehensive overview of my programming, web, and game dev capabilities.</p>
+        <p>A comprehensive overview of my programming, web, mobile, and game dev capabilities.</p>
       </div>
       <div className="skills-grid">
         <div className="skill-card glass-panel reveal">
@@ -13,6 +13,12 @@ const Skills = () => {
           <SkillItem name="Java (Spring Boot)" width="90%" />
           <SkillItem name="C++ / Python" width="85%" />
           <SkillItem name="JavaScript / React" width="85%" />
+        </div>
+        <div className="skill-card glass-panel reveal">
+          <h3><i className="fa-brands fa-android"></i> Mobile Dev</h3>
+          <SkillItem name="Kotlin" width="90%" />
+          <SkillItem name="Jetpack Compose" width="85%" />
+          <SkillItem name="RoomsDB" width="85%" />
         </div>
         <div className="skill-card glass-panel reveal">
           <h3><i className="fa-solid fa-gamepad"></i> Game Dev</h3>
