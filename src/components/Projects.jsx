@@ -28,7 +28,7 @@ const Projects = () => {
                 <span className="tag">Render</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/Telecom-Plan-comparator" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/Telecom-Plan-comparator" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
                 <a href="https://telecom-plan-comparator-frontend-p33t.onrender.com" target="_blank" rel="noreferrer" className="project-btn primary-link">
@@ -56,7 +56,7 @@ const Projects = () => {
                 <span className="tag">Render</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/Spare-Parts-Inventory-Frontend" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/Spare-Parts-Inventory-Frontend" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
                 <a href="https://spareparts-inventory.netlify.app" className="project-btn primary-link">
@@ -84,7 +84,7 @@ const Projects = () => {
                 <span className="tag">Android</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/ManaVahna" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/ManaVahana" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
                 <a href="https://manavahana.netlify.app" target="_blank" rel="noreferrer" className="project-btn primary-link">
@@ -128,7 +128,7 @@ const Projects = () => {
                 <span className="tag">C++</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/TangleTrail" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/TangleTrail" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
               </div>
@@ -152,7 +152,7 @@ const Projects = () => {
                 <span className="tag">C++</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/OpreationFirestorm" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/OpreationFirestorm" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
               </div>
@@ -175,7 +175,7 @@ const Projects = () => {
                 <span className="tag">Mobile Optimization</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/ShadowBound" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/LegaciesUntold" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
                 <a href="https://youtu.be/D7MnZhcHZO4?si=3zq4B5mbcSv6bruJ" target="_blank" rel="noreferrer" className="project-btn primary-link">
@@ -211,7 +211,7 @@ const Projects = () => {
                 <span className="tag">Netlify</span>
               </div>
               <div className="project-links-row">
-                <a href="https://github.com/SubLochan/RabbitRush" target="_blank" rel="noreferrer" className="project-btn">
+                <a href="https://github.com/LochanDev/RabbitRush" target="_blank" rel="noreferrer" className="project-btn">
                   <i className="fa-brands fa-github"></i> Repository
                 </a>
                 <a href="https://rabbitrush.netlify.app" target="_blank" rel="noreferrer" className="project-btn primary-link">

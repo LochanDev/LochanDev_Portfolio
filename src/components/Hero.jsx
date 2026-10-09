@@ -14,7 +14,7 @@ const Hero = () => {
           <a href="#contact" className="btn-secondary">Let's Connect</a>
         </div>
         <div className="socialHover">
-          <a href="https://github.com/SubLochan" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a>
+          <a href="https://github.com/LochanDev" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a>
           <a href="https://linkedin.com/in/lochan-sublari-120123303" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a>
           <a href="mailto:sublarilochan123@gmail.com"><i className="fa-solid fa-envelope"></i></a>
         </div>
